@@ -5,10 +5,7 @@
 </div>  
 
 <br>  
-
-<div align="center">  
-[![Download for macOS](https://img.shields.io/badge/🍏_Download_for_macOS-green?style=for-the-badge&logo=apple)](https://samsonyichalal.github.io/github.io/)  
-</div>  
+<div align="center"> [![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://samsonyichalal.github.io/github.io/) </div>
 
 ---
 
